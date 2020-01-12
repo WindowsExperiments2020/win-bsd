@@ -1,2 +1,2 @@
 # win-bsd
-Backup Of Windows EFI Partition
+Backup Of EFI Partition From x64-bit Windows 10 Computer
